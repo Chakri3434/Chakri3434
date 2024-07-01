@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/chakri_347" target="blank"><img src="https://img.shields.io/twitter/follow/chakri_347?logo=twitter&style=for-the-badge" alt="chakri_347" /></a> </p>
 
-- 🔭 I’m currently working on **Amazon Frontend and Backend Project.**
+- 🔭 I’m currently working on **@Amazon Frontend and Backend Project.**
 
 - 🌱 I’m currently learning **JS, React and Node**
 
