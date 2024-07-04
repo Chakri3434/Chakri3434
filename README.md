@@ -30,6 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chakri3434&show_icons=true&locale=en&layout=compact" alt="chakri3434" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chakri3434&show_icons=true&locale=en" alt="chakri3434" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chakri3434&" alt="chakri3434" /></p>
