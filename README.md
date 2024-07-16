@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Chakradhar Kalla</h1>
 <h3 align="center">A passionate budding frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chakri3434" alt="chakri3434" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/chakri_347" target="blank"><img src="https://img.shields.io/twitter/follow/chakri_347?logo=twitter&style=for-the-badge" alt="chakri_347" /></a> </p>
 
 - 🔭 I’m currently working on **Amazon Frontend and Backend Project.**
 
-- 🌱 I’m currently learning **JS, React and Node**
+- 🌱 I’m currently learning **JS, React**
 
 - 👯 I’m looking to collaborate on **discussions about frontend technologies.**
 
@@ -30,6 +29,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chakri3434&show_icons=true&locale=en&layout=compact" alt="chakri3434" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chakri3434&show_icons=true&locale=en" alt="chakri3434" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chakri3434&" alt="chakri3434" /></p>
