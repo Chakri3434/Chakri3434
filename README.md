@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **discussions about frontend technologies.**
 
-- 👨‍💻 All of my projects are available at [https://chakri3434.github.io/HTML_CSS_projects/Portfolio/index.html](https://chakri3434.github.io/HTML_CSS_projects/Portfolio/index.html)
+- 👨‍💻 All of my projects are available at [https://chakri3434.github.io/portfolio/]([https://chakri3434.github.io/portfolio/])
 
 - 📫 How to reach me **chakradharkalla124@gmail.com**
 
